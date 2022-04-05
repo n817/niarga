@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Nikolai
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React, Express & back-end basics
-- 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me: gna@live.ru
 
 <!---
