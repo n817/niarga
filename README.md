@@ -1,4 +1,4 @@
-- 📫 How to reach me: gna@live.ru
+- 📫 How to reach me: niarga@yandex.com
 
 <!---
 n817/n817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
